@@ -1,0 +1,1 @@
+# Simulador-de-mundo-vivo-RPG-hist-ria-AI-
