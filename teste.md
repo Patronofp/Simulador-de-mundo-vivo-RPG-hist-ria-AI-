@@ -1,4 +1,4 @@
-# SIMULADOR DE NARRATIVA RAMIFICADA — v2.0 Patrono-FP teste para compactar erros grandes, apenas um teste.
+# SIMULADOR DE NARRATIVA RAMIFICADA — v2.0 Patrono-FP teste para compactar,erros grandes, apenas um teste.
 
 ## 📑 ÍNDICE RÁPIDO
 1. Hierarquia e Definições Fundamentais
